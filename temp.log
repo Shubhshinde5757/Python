@@ -1,0 +1,747 @@
+-------------------------------------
+{'pid': 0, 'name': 'System Idle Process', 'status': 'running', 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 0.0, 'memory_percent': 9.795863990306012e-05}
+-------------------------------------
+-------------------------------------
+{'pid': 4, 'name': 'System', 'status': 'running', 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 0.0, 'memory_percent': 0.09869332970233308}
+-------------------------------------
+-------------------------------------
+{'pid': 92, 'name': '', 'status': 'stopped', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.49346664851166544}
+-------------------------------------
+-------------------------------------
+{'pid': 136, 'name': 'Registry', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.48063406668436454}
+-------------------------------------
+-------------------------------------
+{'pid': 628, 'name': 'smss.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.006024456354038197}
+-------------------------------------
+-------------------------------------
+{'pid': 696, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10368922033738914}
+-------------------------------------
+-------------------------------------
+{'pid': 764, 'name': 'wininit.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.0692567584114635}
+-------------------------------------
+-------------------------------------
+{'pid': 976, 'name': 'csrss.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.051036451389494336}
+-------------------------------------
+-------------------------------------
+{'pid': 988, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.15986850032179414}
+-------------------------------------
+-------------------------------------
+{'pid': 1112, 'name': 'services.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.0993790401816545}
+-------------------------------------
+-------------------------------------
+{'pid': 1144, 'name': 'LsaIso.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.019297852060902843}
+-------------------------------------
+-------------------------------------
+{'pid': 1152, 'name': 'lsass.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.32473289127864435}
+-------------------------------------
+-------------------------------------
+{'pid': 1280, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.4947890901503567}
+-------------------------------------
+-------------------------------------
+{'pid': 1300, 'name': 'fontdrvhost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.01479175462536208}
+-------------------------------------
+-------------------------------------
+{'pid': 1324, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.2200640845422246}
+-------------------------------------
+-------------------------------------
+{'pid': 1424, 'name': 'WUDFHost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1657949980359293}
+-------------------------------------
+-------------------------------------
+{'pid': 1432, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.23030076241209435}
+-------------------------------------
+-------------------------------------
+{'pid': 1508, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.0918852042290704}
+-------------------------------------
+-------------------------------------
+{'pid': 1624, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.3529449795707257}
+-------------------------------------
+-------------------------------------
+{'pid': 1684, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.03521613104515012}
+-------------------------------------
+-------------------------------------
+{'pid': 1696, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.0594608944211575}
+-------------------------------------
+-------------------------------------
+{'pid': 1768, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.05324052078731318}
+-------------------------------------
+-------------------------------------
+{'pid': 1776, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10795042117317227}
+-------------------------------------
+-------------------------------------
+{'pid': 1804, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.12479930723649861}
+-------------------------------------
+-------------------------------------
+{'pid': 1820, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.08664441699425668}
+-------------------------------------
+-------------------------------------
+{'pid': 1832, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.13562373694578675}
+-------------------------------------
+-------------------------------------
+{'pid': 1844, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.17456229630725315}
+-------------------------------------
+-------------------------------------
+{'pid': 1880, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.25160676659100994}
+-------------------------------------
+-------------------------------------
+{'pid': 1884, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.09389335634708314}
+-------------------------------------
+-------------------------------------
+{'pid': 1916, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.11578711236541707}
+-------------------------------------
+-------------------------------------
+{'pid': 1936, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.3281124643552999}
+-------------------------------------
+-------------------------------------
+{'pid': 1944, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1016810682193764}
+-------------------------------------
+-------------------------------------
+{'pid': 2036, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.12230136191897058}
+-------------------------------------
+-------------------------------------
+{'pid': 2112, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.11764832652357521}
+-------------------------------------
+-------------------------------------
+{'pid': 2136, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.08444034759643783}
+-------------------------------------
+-------------------------------------
+{'pid': 2152, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.07601590456477465}
+-------------------------------------
+-------------------------------------
+{'pid': 2168, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.13283191570854952}
+-------------------------------------
+-------------------------------------
+{'pid': 2188, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.10530553789578963}
+-------------------------------------
+-------------------------------------
+{'pid': 2248, 'name': 'IntelCpHDCPSvc.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.04427730523618318}
+-------------------------------------
+-------------------------------------
+{'pid': 2292, 'name': 'conhost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.12137075483989151}
+-------------------------------------
+-------------------------------------
+{'pid': 2320, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.27634132316653265}
+-------------------------------------
+-------------------------------------
+{'pid': 2372, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10550145517559575}
+-------------------------------------
+-------------------------------------
+{'pid': 2380, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.18788467133406933}
+-------------------------------------
+-------------------------------------
+{'pid': 2536, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.12440747267688636}
+-------------------------------------
+-------------------------------------
+{'pid': 2544, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.09007296939086379}
+-------------------------------------
+-------------------------------------
+{'pid': 2572, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1308237635905368}
+-------------------------------------
+-------------------------------------
+{'pid': 2588, 'name': 'Updates.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.5054665818997902}
+-------------------------------------
+-------------------------------------
+{'pid': 2688, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1610929833205824}
+-------------------------------------
+-------------------------------------
+{'pid': 2828, 'name': 'WindowsTerminal.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.1141325909374544}
+-------------------------------------
+-------------------------------------
+{'pid': 2852, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.17960716626226073}
+-------------------------------------
+-------------------------------------
+{'pid': 2900, 'name': 'UserOOBEBroker.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.14081554486064893}
+-------------------------------------
+-------------------------------------
+{'pid': 2932, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2215334641407705}
+-------------------------------------
+-------------------------------------
+{'pid': 2972, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.09159132830936122}
+-------------------------------------
+-------------------------------------
+{'pid': 3004, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.17588473794594445}
+-------------------------------------
+-------------------------------------
+{'pid': 3180, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.16809702607365118}
+-------------------------------------
+-------------------------------------
+{'pid': 3204, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.2862949005670825}
+-------------------------------------
+-------------------------------------
+{'pid': 3208, 'name': 'MemCompression', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.6015150283247408}
+-------------------------------------
+-------------------------------------
+{'pid': 3264, 'name': 'igfxCUIServiceN.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.17093782663083992}
+-------------------------------------
+-------------------------------------
+{'pid': 3276, 'name': 'NisSrv.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.08380361643706793}
+-------------------------------------
+-------------------------------------
+{'pid': 3336, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.09776272262325401}
+-------------------------------------
+-------------------------------------
+{'pid': 3344, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1570276997646054}
+-------------------------------------
+-------------------------------------
+{'pid': 3460, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.19351729312849528}
+-------------------------------------
+-------------------------------------
+{'pid': 3496, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.13596659218544746}
+-------------------------------------
+-------------------------------------
+{'pid': 3632, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.11020346989094264}
+-------------------------------------
+-------------------------------------
+{'pid': 3640, 'name': 'conhost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.0927178526682464}
+-------------------------------------
+-------------------------------------
+{'pid': 3644, 'name': 'MicrosoftStartFeedProvider.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.514037962891308}
+-------------------------------------
+-------------------------------------
+{'pid': 3688, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2813372138015887}
+-------------------------------------
+-------------------------------------
+{'pid': 3760, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.28216986224076473}
+-------------------------------------
+-------------------------------------
+{'pid': 3784, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1597705416818911}
+-------------------------------------
+-------------------------------------
+{'pid': 3828, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10466880673641973}
+-------------------------------------
+-------------------------------------
+{'pid': 3896, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2674760662553057}
+-------------------------------------
+-------------------------------------
+{'pid': 3948, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.14071758622074587}
+-------------------------------------
+-------------------------------------
+{'pid': 3980, 'name': 'MessagingPlugin.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.20522335059691096}
+-------------------------------------
+-------------------------------------
+{'pid': 4020, 'name': 'spoolsv.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.14243186241904943}
+-------------------------------------
+-------------------------------------
+{'pid': 4184, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.12484828655645014}
+-------------------------------------
+-------------------------------------
+{'pid': 4200, 'name': 'WUDFHost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.0910525557898944}
+-------------------------------------
+-------------------------------------
+{'pid': 4272, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.05916701850144832}
+-------------------------------------
+-------------------------------------
+{'pid': 4304, 'name': 'armsvc.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.09477498410621069}
+-------------------------------------
+-------------------------------------
+{'pid': 4336, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2516557459109615}
+-------------------------------------
+-------------------------------------
+{'pid': 4356, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.46638108457846933}
+-------------------------------------
+-------------------------------------
+{'pid': 4380, 'name': 'DAX3API.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.17108476459069452}
+-------------------------------------
+-------------------------------------
+{'pid': 4420, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.15423587852736817}
+-------------------------------------
+-------------------------------------
+{'pid': 4472, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.4689280092159488}
+-------------------------------------
+-------------------------------------
+{'pid': 4480, 'name': 'ElevocControlService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.09247295606848877}
+-------------------------------------
+-------------------------------------
+{'pid': 4596, 'name': 'OneApp.IGCC.WinService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.17407250310773786}
+-------------------------------------
+-------------------------------------
+{'pid': 4612, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.17691330366492658}
+-------------------------------------
+-------------------------------------
+{'pid': 4644, 'name': 'Lenovo.Modern.ImController.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.37052855543332497}
+-------------------------------------
+-------------------------------------
+{'pid': 4684, 'name': 'esif_uf.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.06308536409757072}
+-------------------------------------
+-------------------------------------
+{'pid': 4712, 'name': 'IntelAudioService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.20615395767599004}
+-------------------------------------
+-------------------------------------
+{'pid': 4720, 'name': 'LenovoVantage-(VantageCoreAddin).exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.13283191570854952}
+-------------------------------------
+-------------------------------------
+{'pid': 4736, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.16363990795806194}
+-------------------------------------
+-------------------------------------
+{'pid': 4768, 'name': 'LenovoUtilityService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.12401563811727412}
+-------------------------------------
+-------------------------------------
+{'pid': 4832, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10814633845297839}
+-------------------------------------
+-------------------------------------
+{'pid': 4864, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.3320308099514223}
+-------------------------------------
+-------------------------------------
+{'pid': 4888, 'name': 'LenovoVantageService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.5502826596554403}
+-------------------------------------
+-------------------------------------
+{'pid': 4908, 'name': 'LNBITSSvc.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.23485583916758668}
+-------------------------------------
+-------------------------------------
+{'pid': 4936, 'name': 'VoiceAssistantService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.14571347685580194}
+-------------------------------------
+-------------------------------------
+{'pid': 4948, 'name': 'LMS.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.08101179519983073}
+-------------------------------------
+-------------------------------------
+{'pid': 4988, 'name': 'RstMwService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.07861180852220576}
+-------------------------------------
+-------------------------------------
+{'pid': 5020, 'name': 'RtkAudUService64.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.11578711236541707}
+-------------------------------------
+-------------------------------------
+{'pid': 5040, 'name': 'SafeExamBrowser.Service.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.14473389045677132}
+-------------------------------------
+-------------------------------------
+{'pid': 5140, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.11706057468415686}
+-------------------------------------
+-------------------------------------
+{'pid': 5160, 'name': 'MpDefenderCoreService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.20130500500078857}
+-------------------------------------
+-------------------------------------
+{'pid': 5228, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.19194995489004635}
+-------------------------------------
+-------------------------------------
+{'pid': 5304, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.16158277652009767}
+-------------------------------------
+-------------------------------------
+{'pid': 5320, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2987248723843819}
+-------------------------------------
+-------------------------------------
+{'pid': 5352, 'name': 'WMIRegistrationService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10442391013666211}
+-------------------------------------
+-------------------------------------
+{'pid': 5368, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.23828439156419376}
+-------------------------------------
+-------------------------------------
+{'pid': 5412, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.08061996064021848}
+-------------------------------------
+-------------------------------------
+{'pid': 5460, 'name': 'MsMpEng.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 2.769094832779704}
+-------------------------------------
+-------------------------------------
+{'pid': 5684, 'name': 'jhi_service.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.06029354286033351}
+-------------------------------------
+-------------------------------------
+{'pid': 5800, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.7970022697016867}
+-------------------------------------
+-------------------------------------
+{'pid': 5836, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.083901575076971}
+-------------------------------------
+-------------------------------------
+{'pid': 6068, 'name': 'conhost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.09213010082882805}
+-------------------------------------
+-------------------------------------
+{'pid': 6264, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.7239143488836144}
+-------------------------------------
+-------------------------------------
+{'pid': 6332, 'name': 'wlanext.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.039085497321320994}
+-------------------------------------
+-------------------------------------
+{'pid': 6424, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2645862863781654}
+-------------------------------------
+-------------------------------------
+{'pid': 6452, 'name': 'SearchHost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.6895308662776403}
+-------------------------------------
+-------------------------------------
+{'pid': 6656, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 2.840261784669277}
+-------------------------------------
+-------------------------------------
+{'pid': 6716, 'name': 'unsecapp.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.0868403342740628}
+-------------------------------------
+-------------------------------------
+{'pid': 6824, 'name': 'conhost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.07704447028375679}
+-------------------------------------
+-------------------------------------
+{'pid': 6844, 'name': 'AggregatorHost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1894520095725183}
+-------------------------------------
+-------------------------------------
+{'pid': 6884, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.59220895753395}
+-------------------------------------
+-------------------------------------
+{'pid': 6892, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.0788567051219634}
+-------------------------------------
+-------------------------------------
+{'pid': 7056, 'name': 'NgcIso.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.01684888606332634}
+-------------------------------------
+-------------------------------------
+{'pid': 7128, 'name': 'winlogon.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.18533774669658976}
+-------------------------------------
+-------------------------------------
+{'pid': 7156, 'name': 'WmiPrvSE.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.15124814001032486}
+-------------------------------------
+-------------------------------------
+{'pid': 7164, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.23074157629165812}
+-------------------------------------
+-------------------------------------
+{'pid': 7184, 'name': 'taskhostw.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.30376974233938947}
+-------------------------------------
+-------------------------------------
+{'pid': 7224, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.06768942017301455}
+-------------------------------------
+-------------------------------------
+{'pid': 7264, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.08933827959159084}
+-------------------------------------
+-------------------------------------
+{'pid': 7392, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.35652046992718733}
+-------------------------------------
+-------------------------------------
+{'pid': 7424, 'name': 'dllhost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.11054632513060336}
+-------------------------------------
+-------------------------------------
+{'pid': 7540, 'name': 'csrss.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10951775941162123}
+-------------------------------------
+-------------------------------------
+{'pid': 7696, 'name': 'unsecapp.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.1296482599117001}
+-------------------------------------
+-------------------------------------
+{'pid': 7740, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.05906905986154526}
+-------------------------------------
+-------------------------------------
+{'pid': 7776, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.7933180452549324}
+-------------------------------------
+-------------------------------------
+{'pid': 7836, 'name': 'WmiApSrv.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.08101179519983073}
+-------------------------------------
+-------------------------------------
+{'pid': 7840, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.07684855300395067}
+-------------------------------------
+-------------------------------------
+{'pid': 7888, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2839331177590198}
+-------------------------------------
+-------------------------------------
+{'pid': 8092, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.4347404438897809}
+-------------------------------------
+-------------------------------------
+{'pid': 8096, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.22971301057267599}
+-------------------------------------
+-------------------------------------
+{'pid': 8124, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2231987610191225}
+-------------------------------------
+-------------------------------------
+{'pid': 8152, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10804837981307533}
+-------------------------------------
+-------------------------------------
+{'pid': 8476, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.4237690762206381}
+-------------------------------------
+-------------------------------------
+{'pid': 8480, 'name': 'OpenConsole.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.14101146214045504}
+-------------------------------------
+-------------------------------------
+{'pid': 8484, 'name': 'dwm.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.9142479862152602}
+-------------------------------------
+-------------------------------------
+{'pid': 8492, 'name': 'AppProvisioningPlugin.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.20434172283778346}
+-------------------------------------
+-------------------------------------
+{'pid': 8496, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.8954399273538727}
+-------------------------------------
+-------------------------------------
+{'pid': 8524, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.9845333103457058}
+-------------------------------------
+-------------------------------------
+{'pid': 8560, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.23088851425151274}
+-------------------------------------
+-------------------------------------
+{'pid': 8580, 'name': 'FnHotkeyUtility.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.23612930148632644}
+-------------------------------------
+-------------------------------------
+{'pid': 8604, 'name': 'ShellHost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.8598319617491104}
+-------------------------------------
+-------------------------------------
+{'pid': 8732, 'name': 'WidgetBoard.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.32350840827985605}
+-------------------------------------
+-------------------------------------
+{'pid': 8792, 'name': 'RuntimeBroker.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.5568948678488969}
+-------------------------------------
+-------------------------------------
+{'pid': 8948, 'name': 'IGCC.exe', 'status': 'stopped', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.209386592792791}
+-------------------------------------
+-------------------------------------
+{'pid': 9112, 'name': 'RuntimeBroker.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.24156600600094627}
+-------------------------------------
+-------------------------------------
+{'pid': 9136, 'name': 'FnHotkeyCapsLKNumLK.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.20532130923681405}
+-------------------------------------
+-------------------------------------
+{'pid': 9304, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1467910218947356}
+-------------------------------------
+-------------------------------------
+{'pid': 9420, 'name': 'TextInputHost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.45717297242758165}
+-------------------------------------
+-------------------------------------
+{'pid': 9468, 'name': 'conhost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.09467702546630762}
+-------------------------------------
+-------------------------------------
+{'pid': 9500, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1599664589616972}
+-------------------------------------
+-------------------------------------
+{'pid': 9964, 'name': 'WUDFHost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1804887940213883}
+-------------------------------------
+-------------------------------------
+{'pid': 10180, 'name': 'dasHost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.06607310261461406}
+-------------------------------------
+-------------------------------------
+{'pid': 10272, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.7632937221246445}
+-------------------------------------
+-------------------------------------
+{'pid': 10396, 'name': 'OneDrive.Sync.Service.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.4603076489044795}
+-------------------------------------
+-------------------------------------
+{'pid': 10668, 'name': 'WUDFHost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.08155056771929756}
+-------------------------------------
+-------------------------------------
+{'pid': 11840, 'name': 'UDClientService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.4481607775565001}
+-------------------------------------
+-------------------------------------
+{'pid': 11852, 'name': 'LenovoVantage-(GenericMessagingAddin).exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.10070148182034581}
+-------------------------------------
+-------------------------------------
+{'pid': 11924, 'name': 'OfficeClickToRun.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.37547546674842947}
+-------------------------------------
+-------------------------------------
+{'pid': 12124, 'name': 'StartMenuExperienceHost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.7918976449763381}
+-------------------------------------
+-------------------------------------
+{'pid': 12372, 'name': 'SDXHelper.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.32752471251588156}
+-------------------------------------
+-------------------------------------
+{'pid': 12436, 'name': 'WmiPrvSE.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.2115906621906099}
+-------------------------------------
+-------------------------------------
+{'pid': 12576, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.6416780706849954}
+-------------------------------------
+-------------------------------------
+{'pid': 12612, 'name': 'OpenConsole.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.17838268326347248}
+-------------------------------------
+-------------------------------------
+{'pid': 12620, 'name': 'powershell.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.7468856499408819}
+-------------------------------------
+-------------------------------------
+{'pid': 12900, 'name': 'WebCompanion.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.30754114997565724}
+-------------------------------------
+-------------------------------------
+{'pid': 13088, 'name': 'ShellExperienceHost.exe', 'status': 'stopped', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.6852206861219056}
+-------------------------------------
+-------------------------------------
+{'pid': 13112, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.12764010779368734}
+-------------------------------------
+-------------------------------------
+{'pid': 13188, 'name': 'CrossDeviceService.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.49865845642652756}
+-------------------------------------
+-------------------------------------
+{'pid': 13272, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.2598842716628185}
+-------------------------------------
+-------------------------------------
+{'pid': 13320, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.14654612529497796}
+-------------------------------------
+-------------------------------------
+{'pid': 13532, 'name': 'RuntimeBroker.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.17686432434497507}
+-------------------------------------
+-------------------------------------
+{'pid': 13580, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.04540382959506837}
+-------------------------------------
+-------------------------------------
+{'pid': 13592, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 5.354566195061121}
+-------------------------------------
+-------------------------------------
+{'pid': 13700, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.8451489412140407}
+-------------------------------------
+-------------------------------------
+{'pid': 13940, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.153942002607659}
+-------------------------------------
+-------------------------------------
+{'pid': 13956, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.11887280952236348}
+-------------------------------------
+-------------------------------------
+{'pid': 14088, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.16172971447995227}
+-------------------------------------
+-------------------------------------
+{'pid': 14100, 'name': 'WidgetService.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.23436604596807137}
+-------------------------------------
+-------------------------------------
+{'pid': 14192, 'name': 'igfxEMN.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.22055387774173987}
+-------------------------------------
+-------------------------------------
+{'pid': 14236, 'name': 'neunative-m.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.21124780695094916}
+-------------------------------------
+-------------------------------------
+{'pid': 14260, 'name': 'SearchIndexer.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.30063506586249156}
+-------------------------------------
+-------------------------------------
+{'pid': 14484, 'name': 'CrossDeviceResume.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.24749250371508144}
+-------------------------------------
+-------------------------------------
+{'pid': 14736, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.16217052835951604}
+-------------------------------------
+-------------------------------------
+{'pid': 14856, 'name': 'Locator.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.02096314893925487}
+-------------------------------------
+-------------------------------------
+{'pid': 14868, 'name': 'conhost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.12524012111606236}
+-------------------------------------
+-------------------------------------
+{'pid': 15004, 'name': 'pet.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.09359948042737395}
+-------------------------------------
+-------------------------------------
+{'pid': 15276, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.17652146910531435}
+-------------------------------------
+-------------------------------------
+{'pid': 15368, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.1405706482608913}
+-------------------------------------
+-------------------------------------
+{'pid': 15464, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.06734656493335384}
+-------------------------------------
+-------------------------------------
+{'pid': 15560, 'name': 'smartscreen.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.16809702607365118}
+-------------------------------------
+-------------------------------------
+{'pid': 15616, 'name': 'SystemSettings.exe', 'status': 'stopped', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.04177935991865515}
+-------------------------------------
+-------------------------------------
+{'pid': 15652, 'name': 'Notepad.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 2.094012865887765}
+-------------------------------------
+-------------------------------------
+{'pid': 15660, 'name': 'RuntimeBroker.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.31934516608397606}
+-------------------------------------
+-------------------------------------
+{'pid': 15724, 'name': 'python.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.29054532595247634}
+-------------------------------------
+-------------------------------------
+{'pid': 15780, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.02115906621906099}
+-------------------------------------
+-------------------------------------
+{'pid': 15964, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.6658248754210997}
+-------------------------------------
+-------------------------------------
+{'pid': 15996, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 3.6040942793133883}
+-------------------------------------
+-------------------------------------
+{'pid': 16016, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.4703591849449325}
+-------------------------------------
+-------------------------------------
+{'pid': 16140, 'name': 'AdobeCollabSync.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.4743157344106171}
+-------------------------------------
+-------------------------------------
+{'pid': 16280, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.19640707300563556}
+-------------------------------------
+-------------------------------------
+{'pid': 16720, 'name': 'AppActions.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.22863546553374237}
+-------------------------------------
+-------------------------------------
+{'pid': 16992, 'name': 'cmd.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.08233423683852203}
+-------------------------------------
+-------------------------------------
+{'pid': 17036, 'name': 'explorer.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 3.7060202441325227}
+-------------------------------------
+-------------------------------------
+{'pid': 17920, 'name': 'SecurityHealthService.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.16035829352130943}
+-------------------------------------
+-------------------------------------
+{'pid': 17996, 'name': 'DAX3API.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1824479668194495}
+-------------------------------------
+-------------------------------------
+{'pid': 18072, 'name': 'ApplicationFrameHost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.24621904139634165}
+-------------------------------------
+-------------------------------------
+{'pid': 18128, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.3738699246404185}
+-------------------------------------
+-------------------------------------
+{'pid': 18276, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.3237043255596622}
+-------------------------------------
+-------------------------------------
+{'pid': 18368, 'name': 'ctfmon.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.31959006268373363}
+-------------------------------------
+-------------------------------------
+{'pid': 18628, 'name': 'sihost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.38115706786280695}
+-------------------------------------
+-------------------------------------
+{'pid': 18872, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 4.41083265823504}
+-------------------------------------
+-------------------------------------
+{'pid': 18876, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.10780348321331766}
+-------------------------------------
+-------------------------------------
+{'pid': 19024, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.983613478717016}
+-------------------------------------
+-------------------------------------
+{'pid': 19408, 'name': 'fontdrvhost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.07777916008302974}
+-------------------------------------
+-------------------------------------
+{'pid': 19444, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.1593297278023273}
+-------------------------------------
+-------------------------------------
+{'pid': 19544, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.41196506011231937}
+-------------------------------------
+-------------------------------------
+{'pid': 19712, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.24803127623454824}
+-------------------------------------
+-------------------------------------
+{'pid': 20236, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.825987251662603}
+-------------------------------------
+-------------------------------------
+{'pid': 20316, 'name': 'ONENOTEM.EXE', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.10383615829724374}
+-------------------------------------
+-------------------------------------
+{'pid': 20348, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.1205381064007155}
+-------------------------------------
+-------------------------------------
+{'pid': 20380, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.198474979893989}
+-------------------------------------
+-------------------------------------
+{'pid': 20448, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.37283058347104686}
+-------------------------------------
+-------------------------------------
+{'pid': 20860, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.4248956005795233}
+-------------------------------------
+-------------------------------------
+{'pid': 20956, 'name': 'AutoModeDetect.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.17828472462356942}
+-------------------------------------
+-------------------------------------
+{'pid': 21004, 'name': 'WhatsApp.Root.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 1.0881245720431918}
+-------------------------------------
+-------------------------------------
+{'pid': 21372, 'name': 'unsecapp.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.1264646041148506}
+-------------------------------------
+-------------------------------------
+{'pid': 21460, 'name': 'RuntimeBroker.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.27256991553026483}
+-------------------------------------
+-------------------------------------
+{'pid': 21808, 'name': 'chrome.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.41612830230819947}
+-------------------------------------
+-------------------------------------
+{'pid': 22072, 'name': 'Code.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 3.3822669392529083}
+-------------------------------------
+-------------------------------------
+{'pid': 22104, 'name': 'msedgewebview2.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.4273445665770998}
+-------------------------------------
+-------------------------------------
+{'pid': 22148, 'name': 'AdobeCollabSync.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.17211333030967665}
+-------------------------------------
+-------------------------------------
+{'pid': 22284, 'name': 'svchost.exe', 'status': 'running', 'username': 'SHUBHAM-PC\\shubh', 'cpu_percent': 0.0, 'memory_percent': 0.26101079602170374}
+-------------------------------------
+-------------------------------------
+{'pid': 22304, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.11201570472914926}
+-------------------------------------
+-------------------------------------
+{'pid': 22472, 'name': 'svchost.exe', 'status': 'running', 'username': None, 'cpu_percent': 0.0, 'memory_percent': 0.09688109486412647}
+-------------------------------------
+--------------------------------------------------
+----Marvellous Platform Survillence System ---
+--------------------------------------------------
+Invalid Number Of Argument
+Unable to proceed as arguments are not matching
+Please use __h or __u flag for getting more details
+--------------------------------------------------
+---Thank you for using Automation System---
+--------------------------------------------------
